@@ -8,3 +8,5 @@
 * practical training 2 : 10/11/2023, Sorbonne Univ., 09h00 - 12h00
 * practical training 3 : 10/11/2023, Sorbonne Univ., 14h00 - 17h00
 * defense : 17/11/2023, Sorbonne Univ., 14h00 - 17h00
+
+The jupyther lab is [Here](https://jupytercloud.idcs.polytechnique.fr/)
